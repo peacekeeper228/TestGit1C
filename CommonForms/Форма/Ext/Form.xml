@@ -3,7 +3,7 @@
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
 	<ChildItems>
 		<InputField name="ТекстЗапроса" id="3">
-			<DataPath>Запрос</DataPath>
+			<DataPath>Запрос1</DataPath>
 			<ContextMenu name="ТекстЗапросаКонтекстноеМеню" id="4"/>
 			<ExtendedTooltip name="ТекстЗапросаРасширеннаяПодсказка" id="5"/>
 		</InputField>
@@ -14,7 +14,7 @@
 		</Button>
 	</ChildItems>
 	<Attributes>
-		<Attribute name="Запрос" id="1">
+		<Attribute name="Запрос1" id="1">
 			<Title>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
