@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.13">
 	<ConfigVersions>
-		<Metadata name="CommonForm.Форма" id="505faaa9-70a4-4b15-abf5-cdc75e689645" configVersion="6bfb485a45507d4b92456fb62aecfbd700000000"/>
-		<Metadata name="CommonForm.Форма.Form" id="505faaa9-70a4-4b15-abf5-cdc75e689645.0" configVersion="7edcda96fc9d5945bcc857f29792874900000000"/>
-		<Metadata name="CommonModule.ОбработкаЗапроса" id="33353f20-5ac0-4a66-8754-874b9dad0a00" configVersion="fc160e436cf7fb4cb1e78b48e6d81fb600000000"/>
-		<Metadata name="CommonModule.ОбработкаЗапроса.Module" id="33353f20-5ac0-4a66-8754-874b9dad0a00.0" configVersion="0743402d5dc5104ab7ddd35806f1ff0c00000000"/>
+		<Metadata name="CommonForm.Форма" id="505faaa9-70a4-4b15-abf5-cdc75e689645" configVersion="916a5fac39a22e4dab983e7173de8dcb00000000"/>
+		<Metadata name="CommonForm.Форма.Form" id="505faaa9-70a4-4b15-abf5-cdc75e689645.0" configVersion="fcc4b2e0a053e84badd502abbe07a40700000000"/>
+		<Metadata name="CommonModule.ОбработкаЗапроса" id="33353f20-5ac0-4a66-8754-874b9dad0a00" configVersion="1fac8d26107e4544a1a266fdb351549f00000000"/>
+		<Metadata name="CommonModule.ОбработкаЗапроса.Module" id="33353f20-5ac0-4a66-8754-874b9dad0a00.0" configVersion="78bb714f104daf4eb52ecec99948c23b00000000"/>
 		<Metadata name="Configuration.Конфигурация" id="9f3674bd-0a79-4849-880b-a108e03f1c02" configVersion="3f38e1de415e4440a69e15df9dc77a8400000000"/>
-		<Metadata name="HTTPService.ServisYa" id="7bc191db-1b53-4c44-959c-14c268566701" configVersion="15c818b9cc09d54b8c5d9ac25f7d7f2800000000">
+		<Metadata name="HTTPService.ServisYa" id="7bc191db-1b53-4c44-959c-14c268566701" configVersion="69006c5082303c40b80ee8ff2480082100000000">
 			<Metadata name="HTTPService.ServisYa.URLTemplate.ШаблонURL1" id="365e18fe-21a1-4d1d-a1e4-3c517b2b92f5"/>
 			<Metadata name="HTTPService.ServisYa.URLTemplate.ШаблонURL1.Method.Get" id="f3999c9f-fbda-47bd-8344-76c93546ceff"/>
 		</Metadata>
-		<Metadata name="HTTPService.ServisYa.Module" id="7bc191db-1b53-4c44-959c-14c268566701.0" configVersion="e9f2486390cd7c4d9130cedf61dbc4cb00000000"/>
+		<Metadata name="HTTPService.ServisYa.Module" id="7bc191db-1b53-4c44-959c-14c268566701.0" configVersion="d7dedebbe42b844bba97a708cf201a6e00000000"/>
 		<Metadata name="Language.Русский" id="238a1e24-44b3-4d29-86a9-47ed51c54ae4" configVersion="17290a8f546a3e49ae9c23536dc5780200000000"/>
 		<Metadata name="Subsystem.Главная" id="c0314c86-3d22-42cc-98ff-2ae3593062f9" configVersion="db716f759b3fd140b449ca02287acade00000000"/>
 	</ConfigVersions>

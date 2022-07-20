@@ -12,8 +12,8 @@
 			<Comment/>
 			<Global>false</Global>
 			<ClientManagedApplication>true</ClientManagedApplication>
-			<Server>false</Server>
-			<ExternalConnection>false</ExternalConnection>
+			<Server>true</Server>
+			<ExternalConnection>true</ExternalConnection>
 			<ClientOrdinaryApplication>false</ClientOrdinaryApplication>
 			<ServerCall>false</ServerCall>
 			<Privileged>false</Privileged>
