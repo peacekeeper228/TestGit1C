@@ -212,8 +212,10 @@
 			<Language>Русский</Language>
 			<Subsystem>Главная</Subsystem>
 			<CommonModule>ОбработкаЗапроса</CommonModule>
+			<CommonModule>Сервер</CommonModule>
 			<HTTPService>ServisYa</HTTPService>
 			<CommonForm>Форма</CommonForm>
+			<InformationRegister>ИсторияЗапросов</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

@@ -16,7 +16,7 @@
 			<Picture/>
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.Форма</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">27e39f8d-fa18-4711-a739-574fa62bff81</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ИсторияЗапросов</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
