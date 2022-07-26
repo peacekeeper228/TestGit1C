@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.13">
 	<ConfigVersions>
-		<Metadata name="CommonForm.Форма" id="505faaa9-70a4-4b15-abf5-cdc75e689645" configVersion="15039f1bb3608043abf8df741631568400000000"/>
-		<Metadata name="CommonForm.Форма.Form" id="505faaa9-70a4-4b15-abf5-cdc75e689645.0" configVersion="74b89749653b8746b785021ca3d74e8a00000000"/>
-		<Metadata name="CommonModule.Сервер" id="29ad2587-ced3-45f2-9416-9ae04c9693e0" configVersion="b3e478b556e0b742bcd8b67db22b3cad00000000"/>
-		<Metadata name="CommonModule.Сервер.Module" id="29ad2587-ced3-45f2-9416-9ae04c9693e0.0" configVersion="cc6e674833011b4eb9edec688bffc21100000000"/>
+		<Metadata name="CommonForm.Форма" id="505faaa9-70a4-4b15-abf5-cdc75e689645" configVersion="1f0e7aa6c87191408ca9a9ec1986b19b00000000"/>
+		<Metadata name="CommonForm.Форма.Form" id="505faaa9-70a4-4b15-abf5-cdc75e689645.0" configVersion="bdb42693f394bb41b37cf4c9e2f4da3900000000"/>
+		<Metadata name="CommonModule.Сервер" id="29ad2587-ced3-45f2-9416-9ae04c9693e0" configVersion="a049effc86788941aa36156d142bd0ef00000000"/>
+		<Metadata name="CommonModule.Сервер.Module" id="29ad2587-ced3-45f2-9416-9ae04c9693e0.0" configVersion="d9f7142c5b97f545b065334ceea615f100000000"/>
 		<Metadata name="Configuration.Конфигурация" id="9f3674bd-0a79-4849-880b-a108e03f1c02" configVersion="0354e23b1364e24f97201aaa2b6dbb1500000000"/>
 		<Metadata name="HTTPService.ServisYa" id="7bc191db-1b53-4c44-959c-14c268566701" configVersion="2e78b7e0c6b99f4b881f0e822d268a1d00000000">
 			<Metadata name="HTTPService.ServisYa.URLTemplate.ЗапросВЯндекс" id="365e18fe-21a1-4d1d-a1e4-3c517b2b92f5"/>
