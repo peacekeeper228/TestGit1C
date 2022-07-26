@@ -17,10 +17,15 @@
 		<ChildObjects>
 			<URLTemplate uuid="365e18fe-21a1-4d1d-a1e4-3c517b2b92f5">
 				<Properties>
-					<Name>ШаблонURL1</Name>
-					<Synonym/>
+					<Name>ЗапросВЯндекс</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Запрос в яндекс</v8:content>
+						</v8:item>
+					</Synonym>
 					<Comment/>
-					<Template>/V1/*</Template>
+					<Template>/V1/{RequestYa}</Template>
 				</Properties>
 				<ChildObjects>
 					<Method uuid="f3999c9f-fbda-47bd-8344-76c93546ceff">
@@ -34,7 +39,7 @@
 							</Synonym>
 							<Comment/>
 							<HTTPMethod>GET</HTTPMethod>
-							<Handler>ШаблонURL1Get</Handler>
+							<Handler>ЗапросВЯндексGet</Handler>
 						</Properties>
 					</Method>
 				</ChildObjects>

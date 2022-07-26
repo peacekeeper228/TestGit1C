@@ -29,14 +29,13 @@
 				</InputField>
 			</ChildItems>
 		</UsualGroup>
-		<InputField name="HtmlОтвет" id="6">
+		<HTMLDocumentField name="HtmlОтвет" id="6">
 			<DataPath>HtmlОтвет</DataPath>
 			<ReadOnly>true</ReadOnly>
 			<GroupHorizontalAlign>Center</GroupHorizontalAlign>
-			<HorizontalStretch>true</HorizontalStretch>
 			<ContextMenu name="HtmlОтветКонтекстноеМеню" id="7"/>
 			<ExtendedTooltip name="HtmlОтветРасширеннаяПодсказка" id="8"/>
-		</InputField>
+		</HTMLDocumentField>
 	</ChildItems>
 	<Attributes>
 		<Attribute name="ТекстЗапроса" id="1">
